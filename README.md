@@ -18,8 +18,8 @@
 ---
 
 ## 🔗 Links
-- Blog: https://example.com
-- Email: you@example.com
+- [![Website](https://img.shields.io/badge/Website-GitHub%20Pages-blue)](https://USERNAME.github.io)
+- Email: hschoi9209@gmail.com
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=hschoi94)
