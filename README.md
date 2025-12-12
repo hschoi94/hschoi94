@@ -18,9 +18,7 @@
 ---
 
 ## 🔗 Links
-- [![Website](https://img.shields.io/badge/Website-GitHub%20Pages-blue)](https://hschoi94.github.io)
-- Email: hschoi9209@gmail.com
-
+- [![Website](https://img.shields.io/badge/Website-GitHub%20Pages-blue)](https://hschoi94.github.io/hschoi94/)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=hschoi94)
 
