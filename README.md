@@ -18,7 +18,7 @@
 ---
 
 ## 🔗 Links
-- [![Website](https://img.shields.io/badge/Website-GitHub%20Pages-blue)](https://USERNAME.github.io)
+- [![Website](https://img.shields.io/badge/Website-GitHub%20Pages-blue)](https://hschoi94.github.io)
 - Email: hschoi9209@gmail.com
 
 
